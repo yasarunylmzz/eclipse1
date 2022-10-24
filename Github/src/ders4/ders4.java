@@ -12,7 +12,7 @@ public class ders4 {
 				System.out.printf("%5d%8d%n",counter,array[counter]);
 				
 			}
-	
+	//ssssss
 	}
 
 }
